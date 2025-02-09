@@ -1,0 +1,6 @@
+*.log
+*.tmp
+build/
+/home/shwetank/dotfiles/qutebrowser/bookmarks/
+/home/shwetank/dotfiles/qutebrowser/quickmarks
+/home/shwetank/dotfiles/qutebrowser/autoconfig.yml
